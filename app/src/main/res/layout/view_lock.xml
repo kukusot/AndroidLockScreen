@@ -13,7 +13,7 @@
         android:layout_gravity="bottom|center_horizontal"
         android:layout_margin="30dp"
         android:padding="30dp"
-        android:text="Dismiss"
+        android:text="Swipe to unlock"
         android:textColor="@android:color/black"
         android:textSize="20sp" />
 
